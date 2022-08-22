@@ -7,6 +7,16 @@
   color: #fff;
 }
 
+.nav {
+  padding: 50px 100px;
+  text-align: center;
+  background: #999;
+  font-size: 32px;
+  font-family: sans-serif;
+  color: #fff;
+  background: rgb(234, 0, 255);
+}
+
 .main {
   background: rgb(144, 238, 149);
   padding: 50px 100px;
